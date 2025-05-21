@@ -3,13 +3,12 @@
   <img height='48px' src='./images/icon-black.png#gh-light-mode-only'>
 </h3>
 
-<h3 align="center">Another <a href="https://github.com/MetaCubeX/mihomo">Mihomo</a> GUI</h3>
 
-<p align="center">
-  <a href="https://github.com/mihomo-party-org/mihomo-party/releases">
-    <img src="https://img.shields.io/github/release/mihomo-party-org/mihomo-party/all.svg">
+  ### 下载地址：<p align="center">
+ <a href="https://github.com/mihomo-party-org/mihomo-party/releases">
+    <img src="https://img.shields.io/github/release/mihomo-party-org/mihomo-party/all.svg">👉
   </a>
- 
+ https://github.com/mihomo-party-org/mihomo-party/releases
 </p>
 <div align='center'>
 <img width='90%' src="./images/preview.jpg">
