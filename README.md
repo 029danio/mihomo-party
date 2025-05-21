@@ -3,6 +3,12 @@
   <img height='48px' src='./images/icon-black.png#gh-light-mode-only'>
 </h3>
 
+## 2025年大陆地区稳定翻墙机场推荐 (持续更新）:
+https://www.flyvpn88.top
+
+## 机场Github：
+https://github.com/029danio/fly
+
 
   ### 下载地址：<p align="center">
  <a href="https://github.com/mihomo-party-org/mihomo-party/releases">
